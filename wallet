@@ -1,0 +1,7 @@
+$nomention
+$title[$username님의 현재 코인]
+$color[what ever you want]
+$footer[cL0OI#7671이가 만들었어!]
+$description[$username님은
+$getUserVar[money]코인을 가지고 있어!!]
+$allowMention
